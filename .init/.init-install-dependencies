@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/tic-tac-toe-match-tracker-6e5443b3/tic_tac_toe_frontend"
+}
